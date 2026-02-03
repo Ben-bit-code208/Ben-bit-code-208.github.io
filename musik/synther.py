@@ -11,8 +11,8 @@ import pyo
 import random
 import time
 import threading
-import tkinter as tk
-from tkinter import ttk, simpledialog, filedialog, messagebox
+import tkweb as tk
+from tkweb import ttk, simpledialog, filedialog, messagebox
 import json
 
 global SineTable
